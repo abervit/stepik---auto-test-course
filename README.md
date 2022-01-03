@@ -9,5 +9,9 @@ A new day - The Holy Sunday
 I can`t see new changes///
 Stepik home work - new commit
 
+<<<<<<< HEAD
 Hi, It`s me again\!1
 
+=======
+Time to refresh forgotten
+>>>>>>> b4808c477b59e0d154a33ce0d5a2a0b7653eb0cd
